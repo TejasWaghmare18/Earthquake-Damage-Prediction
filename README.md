@@ -24,3 +24,6 @@ The project makes use of:
 │   └── prediction_model.py        # Python script for training and testing the prediction model
 └── mini_project.pdf               # Project documentation report
 └── requirements.txt               # List of required Python packages
+```
+Setup and Installation
+Clone this repository to your local machine:
