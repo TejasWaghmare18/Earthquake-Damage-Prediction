@@ -27,3 +27,4 @@ The project makes use of:
 ```
 Setup and Installation
 Clone this repository to your local machine:
+git clone https://github.com/TejasWaghmare18/Earthquake-Damage-Prediction.git
